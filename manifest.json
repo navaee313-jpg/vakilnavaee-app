@@ -1,0 +1,26 @@
+{
+  "name": "شمیم عدالت | دفتر وکالت محمد نوائی",
+  "short_name": "شمیم عدالت",
+  "description": "رزرو وقت مشاوره حقوقی با دفتر وکالت محمد نوائی",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F1E4",
+  "theme_color": "#16294A",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
